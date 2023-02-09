@@ -1,7 +1,7 @@
 {
-  "name": "telebot-vercel-template",
+  "name": "botkin-bot",
   "version": "1.0.2",
-  "author": "PonomareVlad",
+  "author": "ff",
   "scripts": {
     "dev": "vc dev",
     "tunnel": "lt --port 3000 & vc dev"
