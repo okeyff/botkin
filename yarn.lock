@@ -392,10 +392,10 @@ strip-ansi@^6.0.0, strip-ansi@^6.0.1:
   dependencies:
     ansi-regex "^5.0.1"
 
-telebot-vercel@0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/telebot-vercel/-/telebot-vercel-0.0.5.tgz#e25f69cc96d4561f2e4749937f44c5d69fccc620"
-  integrity sha512-9BKsB3pi+eIFkWVEduJPrtXM3OHPL2bBO1Rs8CF/BrLd0P7FJcmvcYQi3DFZlVhTVjc+AhE6wyVajMUToO2nwQ==
+telebot-vercel@0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/telebot-vercel/-/telebot-vercel-0.0.10.tgz#4ff31a8a7692555db66fb89ac04005e51fe5dc91"
+  integrity sha512-Cg/KfS43ElfeJ/qbjVG0juACeRoEs9R+qeBXaE9PHs8m6XK3PV5yppvl7KAzVO93D891fZcniYm4UVDwLAyFGA==
 
 telebot@^1.4.1:
   version "1.4.1"
